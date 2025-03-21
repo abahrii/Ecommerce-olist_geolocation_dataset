@@ -20,7 +20,7 @@ Ce repository contient plusieurs programmes permettant d'analyser des données t
   - Calcul de l'importance relative des attributs par cluster et affichage sous forme de heatmap.
 
 - **interface_ecom.py**  
-  Application interactive développée avec [Streamlit](https://streamlit.io/) :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3} qui permet de :
+  Application interactive développée avec [Streamlit](https://streamlit.io/) qui permet de :
   - Charger un fichier CSV contenant les données transactionnelles.
   - Prétraiter et calculer le résumé RFM.
   - Choisir entre plusieurs méthodes de clustering (KMeans, clustering hiérarchique, DBSCAN) via une interface conviviale.
