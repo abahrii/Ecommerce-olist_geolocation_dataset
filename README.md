@@ -55,6 +55,7 @@ Exécutez le script en ligne de commande :
 Assurez-vous que le fichier CSV (cleaned_data_tr.csv) contenant les données transactionnelles se trouve dans le même répertoire.
 
 2. Application Streamlit
+   
 Lancez l'application avec la commande suivante :
 
 *streamlit run interface_ecom.py*
